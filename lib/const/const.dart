@@ -3,8 +3,8 @@ import "../nostr/types.dart";
 class AppConfig {
   static const String channelId = '2b184fe3dcdabfc9e2983b1316158c2ef88f54cce58f2cb6572bf59bfd008ec8';
   static User me = User(
-    name: "shino3_test_name",
-    displayName: "ご注文はShino3ですか？",
+    name: "hakkadaikon",
+    displayName: "発火大根",
     about: '',
     picture: 'avatar_url',
   );
